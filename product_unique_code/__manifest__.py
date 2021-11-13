@@ -20,10 +20,6 @@
         "security/ir.model.access.csv"
     },
 
-    "images":[
-        "static/sc/img/demo.gif"
-    ],
-
     "installable": True,
     "application": True,
     "auto_install": False,
