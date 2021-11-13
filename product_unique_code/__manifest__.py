@@ -21,7 +21,7 @@
     },
 
     "images":[
-        "static/description/demo.gif"
+        "static/sc/img/demo.gif"
     ],
 
     "installable": True,
