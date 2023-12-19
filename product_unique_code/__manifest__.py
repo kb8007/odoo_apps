@@ -15,10 +15,15 @@
     "sequence": 1,
     
     "depends": ["product", "stock"],
+    
     "data": {
         "wizards/product_default_code.xml",
         "security/ir.model.access.csv"
     },
+
+    'images':[
+        'static/description/banner.gif'
+    ],
 
     "installable": True,
     "application": True,
